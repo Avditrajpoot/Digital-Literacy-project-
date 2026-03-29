@@ -1,4 +1,4 @@
-**TASK 1 REPORT**
+# TASK 1 REPORT
 
 For Task 1, I created a digital literacy awareness infographic using Canva because of its user-friendly interface and wide range of templates. My design focuses on explaining what digital literacy is, why it is important for students, and how to practice safe and responsible online behavior. I included key sections such as “What is Digital Literacy,” where I defined it as the ability to effectively and safely use digital tools and platforms, and “Useful Digital Tools,” highlighting tools like online collaboration platforms and cloud storage. I also added a section on “Safe Internet Practices,” which covers strong passwords, avoiding suspicious links, and protecting personal information.
 
